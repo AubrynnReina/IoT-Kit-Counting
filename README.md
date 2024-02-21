@@ -7,6 +7,7 @@ In this project, we have:
 - Made use of the YOLOv5, YOLOv8, Faster-RCNN, RT-DETR documentation for experimenting on the dataset.
 - Created a pipeline for 2-sized inference for application.
 - Created an interface for model and inference demonstration.
+- Achieved the mAP50 of 0.861 for all devices in the IoT kit.
 
 Here are some images for reference:
 
