@@ -7,3 +7,7 @@ In this project, we have:
 - Made use of the YOLOv5, YOLOv8, Faster-RCNN, RT-DETR documentation for experimenting on the dataset.
 - Created a pipeline for 2-sized inference for application.
 - Created an interface for model and inference demonstration.
+
+Here are some images for reference:
+![image](https://github.com/AubrynnReina/IoT-Kit-Counting/assets/78487345/ab66ff2b-2a3b-4147-9a36-1bd63b24c783)
+![image](https://github.com/AubrynnReina/IoT-Kit-Counting/assets/78487345/9dde17e8-c558-4309-a7f3-830158c3f597)
